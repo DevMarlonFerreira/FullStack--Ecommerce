@@ -5,7 +5,7 @@
 <!-- ABOUT THE PROJECT -->
 <h2 tabindex="-1" dir="auto"><a id="user-content--about-the-project" class="anchor" aria-hidden="true" tabindex="-1" href="#about-the-project">🔭 About The Project 🔭</h2>
 
-Plataforma completa de Ecommerce com seu respectivo painel administrativo.
+Plataforma completa de Ecommerce com seu respectivo Painel Administrativo.
 
 Desenvolvido utilizando a Template Engine EJS. 
 
