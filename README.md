@@ -20,6 +20,7 @@ Contem duas plataformas. A primeira é o painel administrativo que gerencia o ec
 [![AWS][aws.com]][aws-url]
 [![Html][Html.org]][Html-url]
 [![sass][sass.com]][sass-url]
+[![Css][Css.org]][Css-url]
 [![jquery][jquery.com]][jquery-url]
 [![bootstrap][bootstrap.com]][bootstrap-url]
 
@@ -51,4 +52,7 @@ Contem duas plataformas. A primeira é o painel administrativo que gerencia o ec
 
 [aws.com]: https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
 [aws-url]: https://aws.amazon.com/
+
+[Css.org]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[Css-url]: https://developer.mozilla.org/pt-BR/docs/Web/CSS
 
